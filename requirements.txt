@@ -1,0 +1,3 @@
+sqlalchemy
+pyqt5
+pyinstaller
